@@ -87,7 +87,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -104,7 +104,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -121,7 +121,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -138,7 +138,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -178,7 +178,7 @@ const books = [
     },
     {
         "id": 2,
-        "image": "./assets/images/2.png",
+        "image": "../assets/images/2.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -200,7 +200,95 @@ const books = [
     },
     {
         "id": 3,
-        "image": "./assets/images/3.png",
+        "image": "../assets/images/3.png",
+        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
+        "author": "مادلین مارتین",
+        "translator": "مریم فرهمندپور",
+        "narrator": "مرجان شهنازفرد",
+        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
+        "categories": [
+            "رمان",
+            "داستان تاریخی",
+            "داستان خارجی"
+        ],
+        "rating": 3.9,
+        "votes": 73,
+        "duration": "12 ساعت و 40 دقیقه",
+        "size": "1 گیگابایت, 20.2 مگابایت",
+        "transferable": false,
+        "price": "39,000 تومان",
+        "originalPrice": "130,000 تومان",
+        "discount": "70%"
+    },
+    {
+        "id": 4,
+        "image": "../assets/images/4.png",
+        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
+        "author": "مادلین مارتین",
+        "translator": "مریم فرهمندپور",
+        "narrator": "مرجان شهنازفرد",
+        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
+        "categories": [
+            "رمان",
+            "داستان تاریخی",
+            "داستان خارجی"
+        ],
+        "rating": 3.9,
+        "votes": 73,
+        "duration": "12 ساعت و 40 دقیقه",
+        "size": "1 گیگابایت, 20.2 مگابایت",
+        "transferable": false,
+        "price": "39,000 تومان",
+        "originalPrice": "130,000 تومان",
+        "discount": "70%"
+    },
+    {
+        "id": 3,
+        "image": "../assets/images/3.png",
+        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
+        "author": "مادلین مارتین",
+        "translator": "مریم فرهمندپور",
+        "narrator": "مرجان شهنازفرد",
+        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
+        "categories": [
+            "رمان",
+            "داستان تاریخی",
+            "داستان خارجی"
+        ],
+        "rating": 3.9,
+        "votes": 73,
+        "duration": "12 ساعت و 40 دقیقه",
+        "size": "1 گیگابایت, 20.2 مگابایت",
+        "transferable": false,
+        "price": "39,000 تومان",
+        "originalPrice": "130,000 تومان",
+        "discount": "70%"
+    },
+    {
+        "id": 4,
+        "image": "../assets/images/4.png",
+        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
+        "author": "مادلین مارتین",
+        "translator": "مریم فرهمندپور",
+        "narrator": "مرجان شهنازفرد",
+        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
+        "categories": [
+            "رمان",
+            "داستان تاریخی",
+            "داستان خارجی"
+        ],
+        "rating": 3.9,
+        "votes": 73,
+        "duration": "12 ساعت و 40 دقیقه",
+        "size": "1 گیگابایت, 20.2 مگابایت",
+        "transferable": false,
+        "price": "39,000 تومان",
+        "originalPrice": "130,000 تومان",
+        "discount": "70%"
+    },
+    {
+        "id": 3,
+        "image": "../assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -244,7 +332,7 @@ const books = [
     },
     {
         "id": 3,
-        "image": "./assets/images/3.png",
+        "image": "../assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -266,7 +354,7 @@ const books = [
     },
     {
         "id": 4,
-        "image": "./assets/images/4.png",
+        "image": "../assets/images/4.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -288,7 +376,7 @@ const books = [
     },
     {
         "id": 3,
-        "image": "./assets/images/3.png",
+        "image": "../assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -310,95 +398,7 @@ const books = [
     },
     {
         "id": 4,
-        "image": "./assets/images/4.png",
-        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
-        "author": "مادلین مارتین",
-        "translator": "مریم فرهمندپور",
-        "narrator": "مرجان شهنازفرد",
-        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
-        "categories": [
-            "رمان",
-            "داستان تاریخی",
-            "داستان خارجی"
-        ],
-        "rating": 3.9,
-        "votes": 73,
-        "duration": "12 ساعت و 40 دقیقه",
-        "size": "1 گیگابایت, 20.2 مگابایت",
-        "transferable": false,
-        "price": "39,000 تومان",
-        "originalPrice": "130,000 تومان",
-        "discount": "70%"
-    },
-    {
-        "id": 3,
-        "image": "./assets/images/3.png",
-        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
-        "author": "مادلین مارتین",
-        "translator": "مریم فرهمندپور",
-        "narrator": "مرجان شهنازفرد",
-        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
-        "categories": [
-            "رمان",
-            "داستان تاریخی",
-            "داستان خارجی"
-        ],
-        "rating": 3.9,
-        "votes": 73,
-        "duration": "12 ساعت و 40 دقیقه",
-        "size": "1 گیگابایت, 20.2 مگابایت",
-        "transferable": false,
-        "price": "39,000 تومان",
-        "originalPrice": "130,000 تومان",
-        "discount": "70%"
-    },
-    {
-        "id": 4,
-        "image": "./assets/images/4.png",
-        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
-        "author": "مادلین مارتین",
-        "translator": "مریم فرهمندپور",
-        "narrator": "مرجان شهنازفرد",
-        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
-        "categories": [
-            "رمان",
-            "داستان تاریخی",
-            "داستان خارجی"
-        ],
-        "rating": 3.9,
-        "votes": 73,
-        "duration": "12 ساعت و 40 دقیقه",
-        "size": "1 گیگابایت, 20.2 مگابایت",
-        "transferable": false,
-        "price": "39,000 تومان",
-        "originalPrice": "130,000 تومان",
-        "discount": "70%"
-    },
-    {
-        "id": 3,
-        "image": "./assets/images/3.png",
-        "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
-        "author": "مادلین مارتین",
-        "translator": "مریم فرهمندپور",
-        "narrator": "مرجان شهنازفرد",
-        "publisher": "انتشارات دیجیتال آوای موج کتاب (نشر صوتی)",
-        "categories": [
-            "رمان",
-            "داستان تاریخی",
-            "داستان خارجی"
-        ],
-        "rating": 3.9,
-        "votes": 73,
-        "duration": "12 ساعت و 40 دقیقه",
-        "size": "1 گیگابایت, 20.2 مگابایت",
-        "transferable": false,
-        "price": "39,000 تومان",
-        "originalPrice": "130,000 تومان",
-        "discount": "70%"
-    },
-    {
-        "id": 4,
-        "image": "./assets/images/4.png",
+        "image": "../assets/images/4.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -422,7 +422,7 @@ const books = [
    
     {
         "id": 3,
-        "image": "./assets/images/3.png",
+        "image": "../assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -444,7 +444,7 @@ const books = [
     },
     {
         "id": 4,
-        "image": "./assets/images/4.png",
+        "image": "../assets/images/4.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",

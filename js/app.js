@@ -2,7 +2,7 @@ const books = [
 
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -19,7 +19,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -36,7 +36,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -53,7 +53,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -70,7 +70,7 @@ const books = [
     },
     {
         id: 1,
-        image: "./assets/images/1.png",
+        image: "../assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",

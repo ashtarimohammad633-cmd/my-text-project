@@ -2,7 +2,7 @@ const books = [
 
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -19,7 +19,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -36,7 +36,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -53,7 +53,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -70,7 +70,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -87,7 +87,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -104,7 +104,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -121,7 +121,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -138,7 +138,7 @@ const books = [
     },
     {
         id: 1,
-        image: "../assets/images/1.png",
+        image: "./assets/images/1.png",
         title: "هستی",
         author: "فرهاد حسن زاده",
         publisher: "کانون پرورش فکری کودکان و نوجوانان",
@@ -178,7 +178,7 @@ const books = [
     },
     {
         "id": 2,
-        "image": "../assets/images/2.png",
+        "image": "./assets/images/2.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -200,7 +200,7 @@ const books = [
     },
     {
         "id": 3,
-        "image": "../assets/images/3.png",
+        "image": "./assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -222,7 +222,7 @@ const books = [
     },
     {
         "id": 4,
-        "image": "../assets/images/4.png",
+        "image": "./assets/images/4.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -244,7 +244,7 @@ const books = [
     },
     {
         "id": 3,
-        "image": "../assets/images/3.png",
+        "image": "./assets/images/3.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
@@ -266,7 +266,7 @@ const books = [
     },
     {
         "id": 4,
-        "image": "../assets/images/4.png",
+        "image": "./assets/images/4.png",
         "title": "آخرین کتابفروشی لندن (کتاب صوتی)",
         "author": "مادلین مارتین",
         "translator": "مریم فرهمندپور",
